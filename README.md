@@ -1,7 +1,7 @@
 ## Hi, I'm Guilherme Alves!
 
 - I work as a FrontEnd Dev with HTML and CSS
-- I'm currently studying BackEnd with Python
+- I'm currently studying Python
 
 <div>
  <a href="https://github.com/galvsre">
