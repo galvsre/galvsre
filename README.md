@@ -1,6 +1,6 @@
 ## Hi, I'm Guilherme Alves!
 
-- I work as a FrontEnd Dev with HTML and CSS
+- I know HTML, CSS, and JS
 - I'm currently studying Python
 
 <div>
